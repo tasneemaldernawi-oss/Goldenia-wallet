@@ -29,9 +29,9 @@ This project implements a Wallet Overview component for Goldenia’s web dashboa
 - Mock data provided via a simple object (`mockdata.js`).
 
 
-## Video Demo
+## Live Demo
 
-Watch the WalletOverview component (https://www.loom.com/share/686de2976bdf4455ace2ceaae40eb804?sid=57dd1e2f-353a-4de8-97d4-35e28ec86b3f)
+Watch the WalletOverview component (https://68d4480095fa450008bf5270--walletoverview.netlify.app/)
 
 
 ## ScreenShots

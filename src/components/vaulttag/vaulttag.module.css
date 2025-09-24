@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 2px;
+}
+.vault{
+    background-color: rgb(222, 224, 225);
+    border-radius: 10px;
+    margin: 5px 0;
+    width: 50%;
+    
+}

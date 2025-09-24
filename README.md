@@ -28,20 +28,6 @@ This project implements a Wallet Overview component for Goldenia’s web dashboa
 - Flexbox & Media Queries for responsive layout.  
 - Mock data provided via a simple object (`mockdata.js`).
 
-##  Installation & Setup
-
-### Prerequisites
-- **Node.js** 
-
-### Steps
-1. **Extract the ZIP folder**
-2. **Open terminal in the project directory**
-3. **Install dependencies:**
-   ```bash
-   npm install
-4. **Start the application**
-   ```bash
-   npm start
 
 ## Video Demo
 
